@@ -101,3 +101,6 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
     );
   }
 }
+void clssr(){
+  Text("sangeeth");
+}
